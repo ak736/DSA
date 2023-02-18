@@ -1,6 +1,6 @@
 //Bubble sort: Pushes the maximum to the last, by adjacent swiping
 //Time complexity: O(n^2) --> Worst Case , O(n) --> Best Case
-//No average case exist
+
 #include<bits/stdc++.h>
 using namespace std;
 
